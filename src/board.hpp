@@ -11,5 +11,5 @@ private:
 
 public:
   void print_board();
-  void place_move(int index, std::string player);
+  void place_move(int index, int player);
 };
